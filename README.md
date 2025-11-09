@@ -43,3 +43,8 @@ python train.py --use_positional_encoding --no_residual
 
 python train1.py --use_positional_encoding
 
+
+使用模型生成文本：
+python generate.py
+
+
