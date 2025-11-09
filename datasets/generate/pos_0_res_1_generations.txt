@@ -1,0 +1,69 @@
+实验: pos_0_res_1 - 无位置编码 + 残差连接
+============================================================
+
+提示: 'First Citizen:'
+----------------------------------------
+样本 1:
+First Citizen: e a Abeeor Rassee obeber s is ebbbeveear b beesh eaneabbreveve sesesberombiefer beesavendsered e bedebisofersbber rerebesbevibbbe bedes
+
+样本 2:
+First Citizen:A  e bave ARoes Ab oveicoe bbere ere sbe om a obbber be beeavean bisombbee ed bbeevisbon h brearbbrebeevesoeee bienes beave bre bbbedear
+
+样本 3:
+First Citizen:h be h oen be e eem be areas benoorb h ove is ooen o bberefeve bbene me ore ree se bber benoe ben red r beveesheeeabeserere biobree es b
+
+============================================================
+
+提示: 'To be or not to be'
+----------------------------------------
+样本 1:
+To be or not to be ea sbo av AR b besbe bboe bra bebbe b be s be ooobbe bbbe bobricose obee bbbe searebbebobbebbbebbbbe bbe bed bobbbbeavebbe beebobebrbbbbeebbbbbbbbebbbbebbbe bbbbedebbbbbebbbbbbbbbbb
+
+样本 2:
+To be or not to be beso a h s sen eboom bee bbee eeaboe bof be ome ser bees be oe beenes be oeavee obbebesbenene bone ereabeefees beneabebereedesobobre beeeneeeee eabbe ene besbe bane resember berebar
+
+样本 3:
+To be or not to be Roe a onbe ish o ro ovean besooofomeso Re harbo be Rooobs ben ave ie be beres amere be obo bobee his en or bof bomea ebe boof se inome ba bee br bes oneabbbbebebroot ees bbabe
+Ribon
+
+============================================================
+
+提示: 'KING:'
+----------------------------------------
+样本 1:
+KING: ee  Aehe are bes o ee berebes beee be o bes Gre Ahan obeeemeve be eeeeroens os beese eebe ede o resbee bee ssthes beeeree beneeeeme beds bereabe ber be boben besireabee orene
+
+样本 2:
+KING:A bo s bebee  re eea schebobben he Gesev e bbee bbr osbed bearbbbben een bo sbbeenobe ererbeseebe bbes berbenoebibberbbe bbeebeesbebrbedbbobe ebeeeabbbessebbresbbbed bbbedsbeb
+
+样本 3:
+KING:e b bbravAReCo hice s ar bbe h ed ACabr bs:'beese ofenche boreene ssefevebice'brin aveshbeeeobe'ser brief bbbe bes berenerivebesbr earbe'bebe bibr brerbbe'bbebeicebesow berath
+
+============================================================
+
+提示: 'ROMEO:'
+----------------------------------------
+样本 1:
+ROMEO:Ah ARon m be oranobe s hes oovee e merbrehe sbbo bere beebr he beshoeee e bbes brea bre bobe be besbere beene eees bed bome brbe bbes ede omeriabered bben be ee bbeboere bee ebeere ebeeseathe be
+
+样本 2:
+ROMEO:bo be asab haree m o beve be s be Abeee oreeorareenenseve essbeareeee boe obeeseseve oeabber beees bbbe oesenereeee beeameeeveabe beseeeereeneeeanebeestebr ee beveabesben brbemeebareat beane be 
+
+样本 3:
+ROMEO: eb  s oCorev ehacbe be beso be oer eobbeeveee ee ason ber se bbedese eveee eam bre eeneseeve bbe breoedebes brebabeese bed essebooereberbe beshesese boerbreeabeved beeneare beisereeese ere beib
+
+============================================================
+
+提示: 'What light through yonder window breaks?'
+----------------------------------------
+样本 1:
+What light through yonder window breaks?e be be of here avebeabbeo hise an h berde bbovebaredshieeee boebefevead bbre be
+
+样本 2:
+What light through yonder window breaks?e orc e bbbe s heanove ben oer he areeere bee on he of bed ere ser athin bombe b
+
+样本 3:
+What light through yonder window breaks? omereavenbeeise be or Re he ave edbishonce o brarevishave ar obeder bee beed be
+
+============================================================
+

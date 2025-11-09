@@ -1,0 +1,257 @@
+四个模型文本生成比较报告
+================================================================================
+
+
+提示: 'First Citizen:'
+============================================================
+
+完整模型 (位置编码 + 残差连接):
+----------------------------------------
+样本 1: First Citizen:
+Rim'r blarmbromer
+RimbroVRRCETRIVRS mit'r blars
+Rim, ing'RrT'R But by brim bom's,
+RIV...
+样本 2: First Citizen:
+Rit brem's brand
+Rith'l Rimbroverby brm's bing
+RIV:
+BRTHENR brim's boViRer blar ing b...
+
+
+无位置编码 + 残差连接:
+----------------------------------------
+样本 1: First Citizen: e a Abeeor Rassee obeber s is ebbbeveear b beesh eaneabbreveve sesesberombiefer beesa...
+样本 2: First Citizen:A  e bave ARoes Ab oveicoe bbere ere sbe om a obbber be beeavean bisombbee ed bbeevisb...
+
+
+位置编码 + 无残差连接:
+----------------------------------------
+样本 1: First Citizen:VVViLKEVVVOyVMVVVVEtVrViVoKLyXLVosRVsEhVViiVRyoVVOrrEOLEiOLVshyEhVopZVEVriVOXRtyVLs yV...
+样本 2: First Citizen:sVKKoVVVsVVVVVLEOyiZVVLIshVVVsVVhyiVZyELVEOhEMVVROiLUsLiyVVIiOOXVsELsVVoMZVyiroVIoEsLE...
+
+
+无位置编码 + 无残差连接:
+----------------------------------------
+样本 1: First Citizen:'ZHZXpZXVZZ'Z'ZN
+UPOZXZfpPOHZpZpZ<sos>'
+LX'<pad>XZPVZXZOZpHZHN
+f'<pad>'ZZXX'pOZVPXH'ZZ...
+样本 2: First Citizen:Z
+XHX'OVPHpPZfOZH
+Z
+'
+XXHZZPPZpXVZ
+ZU'pZZNfXOZ'ZHZZPZZ
+
+ZpZXXZUOpfZHZX<sos>''PP
+
+ZZV
+X...
+
+
+提示: 'To be or not to be'
+============================================================
+
+完整模型 (位置编码 + 残差连接):
+----------------------------------------
+样本 1: To be or not to ber'mbr ber,
+RIR:
+Rimb' brerv' to brmb's ingR'VBR,
+Rbrom tism's bublor be st
+Rim, I'...
+样本 2: To be or not to ber
+Rim's berblom ren brim's tr boR,
+BRIV:
+Rin bram' is RIV:
+BR' br
+Rim, broms bert'...
+
+
+无位置编码 + 残差连接:
+----------------------------------------
+样本 1: To be or not to be ea sbo av AR b besbe bboe bra bebbe b be s be ooobbe bbbe bobricose obee bbbe sea...
+样本 2: To be or not to be beso a h s sen eboom bee bbee eeaboe bof be ome ser bees be oe beenes be oeavee o...
+
+
+位置编码 + 无残差连接:
+----------------------------------------
+样本 1: To be or not to beOVyLlEEEKVVVVVVMioVLVErVIiVtOLsoiVhsMEVVVIyVRLMVVOXiVMEyVhs MrVRLMVUtViohiRVpVMVLL...
+样本 2: To be or not to beVyLVVMKVsVRiVEVVVtXEVoVsLLyiVVoVZssyEVihOVERLKELysErVtRLViVVLZoOyiLVVEVUrpRMEiVih ...
+
+
+无位置编码 + 无残差连接:
+----------------------------------------
+样本 1: To be or not to beZXO'HO
+H
+Z'ZUfHN'pXZZpPXOH'X
+XZZZZfV
+'<sos>ZpO'ZH
+ZXZpHZ'VZpOZZHN
+'PpXZZZX'OZZHU<s...
+样本 2: To be or not to beXZH
+Z
+Vp'Z
+
+
+ZOX
+ZZH'
+HZH'pfZOZPZ'XU<sos>A''H
+<pad>Xp'pZHZZUZfPV'ZAXpZZONXHXUXPZp
+...
+
+
+提示: 'KING:'
+============================================================
+
+完整模型 (位置编码 + 残差连接):
+----------------------------------------
+样本 1: KING:
+RIVRRCESHBR brominVRRCESRm' R's bermblord
+HiR,
+BR BR'trombrim bers I'R RIV:
+Thbom's,
+BRESVORr ...
+样本 2: KING:
+Rim ber's,
+Bubring'R I'lrm tR Rer boobr
+bim's ber blorm'd,
+Rim ber' robs
+BRIV:
+But' mordbs ber...
+
+
+无位置编码 + 残差连接:
+----------------------------------------
+样本 1: KING: ee  Aehe are bes o ee berebes beee be o bes Gre Ahan obeeemeve be eeeeroens os beese eebe ede ...
+样本 2: KING:A bo s bebee  re eea schebobben he Gesev e bbee bbr osbed bearbbbben een bo sbbeenobe ererbesee...
+
+
+位置编码 + 无残差连接:
+----------------------------------------
+样本 1: KING:VVKlsioEgMOfVVVVVVEVyVVhsiVVVVsOLVEZVhViVVEiiIyoVOhEiriiViZtVMRViLVVhyVisLEiVtRr oiOLoLiEVhoVrE...
+样本 2: KING:VEissEKlOhKVOVVViVyVsVsOVMKVVhiViLVZVVosVVRVEhrVILoyVVEyisiVVVEsELsrILt shiRrUVsiEtoOZVELLVERiE...
+
+
+无位置编码 + 无残差连接:
+----------------------------------------
+样本 1: KING:X
+PZX
+''Of'VOHZN'Z
+'ZX
+ZpAZfZ
+pH
+ZOPZ
+'XZVZZ'XX
+UZZZOZNZH
+ZP'Zpf
+pX
+ZXXVp'XZHZZHOOU
+pOZHZHX'X
+
+...
+样本 2: KING:Z'pXO
+VfAHpZZP
+p
+'HXPUZZ'<sos>ZON
+ZOH'ApXZZP'ZOOZ<sos>fZXHpZZXXPH
+XOZ'
+XNZZUHVpZ'PXf
+'pZZNO'ZZH...
+
+
+提示: 'ROMEO:'
+============================================================
+
+完整模型 (位置编码 + 残差连接):
+----------------------------------------
+样本 1: ROMEO: bris
+Rem's arbe tor
+BR, brimbrink's Rermbrim
+Hour br th' Ram is brarm
+Rit on bere by brink's ...
+样本 2: ROMEO:
+Rim brom'cerm'lds'tR bing,
+Rimbrer
+BRIV:
+RicR's brembringbtRim's tr Rom'd tars blin,
+BR'V:
+Ha...
+
+
+无位置编码 + 残差连接:
+----------------------------------------
+样本 1: ROMEO:Ah ARon m be oranobe s hes oovee e merbrehe sbbo bere beebr he beshoeee e bbes brea bre bobe b...
+样本 2: ROMEO:bo be asab haree m o beve be s be Abeee oreeorareenenseve essbeareeee boe obeeseseve oeabber b...
+
+
+位置编码 + 无残差连接:
+----------------------------------------
+样本 1: ROMEO:VgViVOfLVylVsEyVVisVVVVVVOtLIRMZVVVUOEyVisXZhVVirVEELrysiiIsrVMRpyVVhsEVLViohOyIiVpisisrVorViV...
+样本 2: ROMEO:lViMVfVOVsELVVVVoVysZVMiEVOMLVVMKEitVhVVVZyRVLoiOMVEtriIpVXrhLVEVyRVZpViM yVVtoEXhsLVOLihErOVo...
+
+
+无位置编码 + 无残差连接:
+----------------------------------------
+样本 1: ROMEO:'ZV
+ZZHPOXPpfNXZPPZ'Z
+ZZp
+ZPpH<sos>OVOXO'ZZZb'
+Nf
+HZP'pZZOVZPX
+'XZ<pad>HXpXPZ
+ZHVNZX'O
+ZfZZ''P...
+样本 2: ROMEO:ZpX'PO<sos>HXp
+VHOZ'ZXpHX
+ZXX'ZPVOZZ<pad>ZXUXH
+'H<sos>H
+Z'ZpZXfO'PXp
+X
+ZUZXNHZVb''PPZpXZ
+
+'AZO...
+
+
+提示: 'What light through yonder window breaks?'
+============================================================
+
+完整模型 (位置编码 + 残差连接):
+----------------------------------------
+样本 1: What light through yonder window breaks?
+
+Rim' bron
+Rim
+BRIV:
+Th' brom's,
+Rim Rat br th'd my bis to ...
+样本 2: What light through yonder window breaks?
+BRIVR bring'Rrm
+BR'VRTHER:
+BR brant Rim, I'll bromer
+Rim tr...
+
+
+无位置编码 + 残差连接:
+----------------------------------------
+样本 1: What light through yonder window breaks?e be be of here avebeabbeo hise an h berde bbovebaredshieeee...
+样本 2: What light through yonder window breaks?e orc e bbbe s heanove ben oer he areeere bee on he of bed e...
+
+
+位置编码 + 无残差连接:
+----------------------------------------
+样本 1: What light through yonder window breaks?VKfVLKiMVOVsSVKEVohsLVLKObrVKVREVEEyVrtLMViMVLKXoVVOyVLIoLZt...
+样本 2: What light through yonder window breaks?VKVKMVLVsirVEVVILLKVhVKVLiVhVVMyVLOLZVRoLVEpbhVOVyissrMVLVLL...
+
+
+无位置编码 + 无残差连接:
+----------------------------------------
+样本 1: What light through yonder window breaks?ZZOZ
+HXf'H'ZXVPNPZHO
+pZZZZZ'XUZZHZfZ
+OVPpZ<pad>ZXP'ZHXZHZ<so...
+样本 2: What light through yonder window breaks?'XZp
+ZPpZpfXZ<sos>HVZZOZXHZ
+P'ZX'H'VOpZHUpZZ
+PZZXNp''Z'HVZZO...
+

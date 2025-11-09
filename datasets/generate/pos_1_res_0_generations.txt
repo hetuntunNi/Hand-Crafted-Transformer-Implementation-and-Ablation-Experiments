@@ -1,0 +1,70 @@
+实验: pos_1_res_0 - 位置编码 + 无残差连接
+============================================================
+
+提示: 'First Citizen:'
+----------------------------------------
+样本 1:
+First Citizen:VVViLKEVVVOyVMVVVVEtVrViVoKLyXLVosRVsEhVViiVRyoVVOrrEOLEiOLVshyEhVopZVEVriVOXRtyVLs yVoVZIrVViVRMihViy OLViVErpbo VLsrXryIrr RIoiXoVVLVV
+
+样本 2:
+First Citizen:sVKKoVVVsVVVVVLEOyiZVVLIshVVVsVVhyiVZyELVEOhEMVVROiLUsLiyVVIiOOXVsELsVVoMZVyiroVIoEsLEMwE Vshih LyILrXVROMIVsysVVRLZthRMRiiXRrEoVI yVVLM
+
+样本 3:
+First Citizen:VKVsVOlELLVhVtVViLVIVViiVsMVsVVVyUsLEVVVVOriIhhVsKVLMpEtXVysioLVrILLZRsVVErhXisVOyVLEhItRMVVVLRsiyXsLhXoiVyIorEibRLiOiVOiUoVhptRMbrLoVRM
+
+============================================================
+
+提示: 'To be or not to be'
+----------------------------------------
+样本 1:
+To be or not to beOVyLlEEEKVVVVVVMioVLVErVIiVtOLsoiVhsMEVVVIyVRLMVVOXiVMEyVhs MrVRLMVUtViohiRVpVMVLLisVVRhwROLyiEyVXoRsoriRLEoVRtRM MRitpiXbsVMwhpUrLrsoRAVRAXiVRM VhrpowrsXEOrriRL RVthphsobRtVRiRrsX:
+
+
+样本 2:
+To be or not to beVyLVVMKVsVRiVEVVVtXEVoVsLLyiVVoVZssyEVihOVERLKELysErVtRLViVVLZoOyiLVVEVUrpRMEiVih ZVEsLiVRRiyVRrVXZVApVEtiVEhsbpRM Rry VRMith RLXh oVrEhVURy opsXRith URry Rrrp:
+VVSiXsbORIXh Rrp obRr
+
+样本 3:
+To be or not to beVVELElVOViVofgsKiMLViEVhLVLOVVsEsRiVKVyihOVVIVLMVLRrEhViZoMVLsKVsiiLMiVitOVRtEyVUhoVVrLriZsVppiRyoOVtobrVpo VViMVVRysitrEpLsVVLZXRtsy RiUVtoXirNLVRrIE VZorVtbpZysUXIriRrh Vor RI RLEA
+
+============================================================
+
+提示: 'KING:'
+----------------------------------------
+样本 1:
+KING:VVKlsioEgMOfVVVVVVEVyVVhsiVVVVsOLVEZVhViVVEiiIyoVOhEiriiViZtVMRViLVVhyVisLEiVtRr oiOLoLiEVhoVrEL VVEsy VVVErohotoLLEViM XXVrhVLVortVsEy RLZLErwpVALXsiXRLy hVoy RMwrsbZZAiRZXph
+
+样本 2:
+KING:VEissEKlOhKVOVVViVyVsVsOVMKVVhiViLVZVVosVVRVEhrVILoyVVEyisiVVVEsELsrILt shiRrUVsiEtoOZVELLVERiEosory VXsiZiisriRLrEy VothVVXisLsLsrh EorRLy VLZiOXbVsVRrwh VRLhy RiphsUVZh RIOR
+
+样本 3:
+KING:VVVLhVVOfVLEVyRVZEVIVUsELhEoVVsiORVVLKULEiIVILLVsRtRRoyhVVpZiiEREVshVVhoLVOyLiVhV EsLAroitVIOyIRr ViLMwsVorAiiEphbisVVirVOMboLKopLLy RViis XripZLorwiRMEror VLLZphrbsRts RLiwy 
+
+============================================================
+
+提示: 'ROMEO:'
+----------------------------------------
+样本 1:
+ROMEO:VgViVOfLVylVsEyVVisVVVVVVOtLIRMZVVVUOEyVisXZhVVirVEELrysiiIsrVMRpyVVhsEVLViohOyIiVpisisrVorViViLhEMbVrORXsVtoiOoyVVVsy LyVVRrrEpiXhVsrVLLtRrwRorROy RViiEsUhVpIIrVh RIIrXEIwrsorih RRAyViRLZ, VIRr
+
+样本 2:
+ROMEO:lViMVfVOVsELVVVVoVysZVMiEVOMLVVMKEitVhVVVZyRVLoiOMVEtriIpVXrhLVEVyRVZpViM yVVtoEXhsLVOLihErOVoiV VVVtRXLhorrULLhVpppiMXoVrVsy RrLRiUOhVVXZpbiREitoVILrVp MURVsLyVZporVEIwRy RrihXobtRLEIXELRIi srh
+
+样本 3:
+ROMEO:VLsEohEKVilVLfVVOVsELVZEyOVMVpsOrKoiihVVVyVVVLIbiEsLrVyVpOMVVihVIVsLirLsVrtVRLiEyyVUVLRKVLrVOrZErhIoirEyVrLhRpisbILirVipXUoVhRysbZLEriOpsiLVtrboE iRMby RhsVViRtOowbIprh RLtoVErXssrssrwh RrIRLERo
+
+============================================================
+
+提示: 'What light through yonder window breaks?'
+----------------------------------------
+样本 1:
+What light through yonder window breaks?VKfVLKiMVOVsSVKEVohsLVLKObrVKVREVEEyVrtLMViMVLKXoVVOyVLIoLZtRLKRVRLEXiryVUMEpRrO
+
+样本 2:
+What light through yonder window breaks?VKVKMVLVsirVEVVILLKVhVKVLiVhVVMyVLOLZVRoLVEpbhVOVyissrMVLVLLoVELVKLVRryVLIOpsrVt
+
+样本 3:
+What light through yonder window breaks?KVLVVVsiVVlVVryVKoLyVVVtiVsELhVRLOVrLViVoVstLEVEVRLrVEyihIOLhsVLiVystLErVXRiOVLV
+
+============================================================
+

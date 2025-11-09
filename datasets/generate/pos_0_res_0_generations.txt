@@ -1,0 +1,221 @@
+实验: pos_0_res_0 - 无位置编码 + 无残差连接
+============================================================
+
+提示: 'First Citizen:'
+----------------------------------------
+样本 1:
+First Citizen:'ZHZXpZXVZZ'Z'ZN
+UPOZXZfpPOHZpZpZ<sos>'
+LX'<pad>XZPVZXZOZpHZHN
+f'<pad>'ZZXX'pOZVPXH'ZZU'ZpZX
+fZZpZ
+NHXPp'OUZZZZA<pad>HHbNXX''
+ZVZPpHPZZOUX'ZXXX<sos>bNpXXZXP
+
+样本 2:
+First Citizen:Z
+XHX'OVPHpPZfOZH
+Z
+'
+XXHZZPPZpXVZ
+ZU'pZZNfXOZ'ZHZZPZZ
+
+ZpZXXZUOpfZHZX<sos>''PP
+
+ZZV
+XZZUXHO
+'Z'X
+ZAHZHpZbHZZZ<sos>Xp'POZANZZZ<pad>HbUZ'ZXXPP<sos>Z
+UPZE
+
+样本 3:
+First Citizen:
+HZX'O'ZpfUZPHZ<sos>PXPZZO
+
+p'ZV'OHP
+fZ<pad>ZX
+ZZZZZ''PZXHZpOP
+'
+
+ZXNZOZHZp'fX
+'ZXOZ
+PXZHVpOZ
+Z'<sos>NZXAPXZZPXpp
+'
+U
+OfANZbX'PZXXHpppUZpNXNZ'X<sos>XNXU
+
+============================================================
+
+提示: 'To be or not to be'
+----------------------------------------
+样本 1:
+To be or not to beZXO'HO
+H
+Z'ZUfHN'pXZZpPXOH'X
+XZZZZfV
+'<sos>ZpO'ZH
+ZXZpHZ'VZpOZZHN
+'PpXZZZX'OZZHU<sos>O'
+XpPZ'O'ZZZPHHZZXZUp<sos>XXVOX'
+fZZAPpUHNX<pad>ZXXX'XNXX'ZZNXH'NPpbUXXO'XUZZPpNXXH'XRXPNXpZXA'U'XXEZXXXXXNXPXNX
+
+样本 2:
+To be or not to beXZH
+Z
+Vp'Z
+
+
+ZOX
+ZZH'
+HZH'pfZOZPZ'XU<sos>A''H
+<pad>Xp'pZHZZUZfPV'ZAXpZZONXHXUXPZp
+ZZZV<sos>Z'ZZZOZX'H
+PZ'HXpHfV<sos>AOPZZZ'XbHN
+OZHZZpZZUVPX'UpZXXANXX
+XHPXOZR'ZXbZPXpUUNXPXX<sos>XXEbZP'ZXpNUXXXXXXXXXPXR
+
+样本 3:
+To be or not to be'
+ZZHpP<sos>XX
+ONZO<pad>XZ'PZHpZZZ'ppV
+ZOX
+OHNZH<pad>''P'pZ
+f'XZPOZHppZpZZXZU
+'P<pad>PHZVXOXZp
+'ZZN'UZPXHZ
+Z'OpXZZPXZUN'fZZZHXPPpX'
+XXON<sos>UZXpXZZbXHX'XZN'PZH
+AUXpRXZZp'pEXXNXXHXXPbpXZp'XRXXNXPXNXXXXX
+
+============================================================
+
+提示: 'KING:'
+----------------------------------------
+样本 1:
+KING:X
+PZX
+''Of'VOHZN'Z
+'ZX
+ZpAZfZ
+pH
+ZOPZ
+'XZVZZ'XX
+UZZZOZNZH
+ZP'Zpf
+pX
+ZXXVp'XZHZZHOOU
+pOZHZHX'X
+
+ZZ
+'fXZUZVXXpXp'PZHZPXPZZfZVUN''pX
+XZHAXXXpXXZZXNU'EXZUXX'XUXA'XX'NXXNZXpXXXER'A
+
+样本 2:
+KING:Z'pXO
+VfAHpZZP
+p
+'HXPUZZ'<sos>ZON
+ZOH'ApXZZP'ZOOZ<sos>fZXHpZZXXPH
+XOZ'
+XNZZUHVpZ'PXf
+'pZZNO'ZZHp'ZOXPZU
+XZfXXOZX'V'HpZZP
+AZZZZZZXNP<sos>Xp'XpZbfXR
+ZOZUXNZ'pXUXHAXXXEZXPNXXZpXNXXA'XXZPH'UX
+
+样本 3:
+KING:XZVOHZ
+<sos>ZfOp'<pad>X
+APPV'
+ZPH'ZOp<sos>XZZHZZf
+XZU''XP'Z'X'p''
+NZOfAV<pad>PZZXHpHZ'ZX
+Z'pOVZPPXUfHPX''ZZppN'pZ<sos>
+XHPfXZ''O'Z'XZp
+Z'VPZbA'HZNOXXZ
+ZZZEXpAXZUXObXRPX''XXZpZNUHZUZbRXPZ'P'ZXNpXZ
+
+============================================================
+
+提示: 'ROMEO:'
+----------------------------------------
+样本 1:
+ROMEO:'ZV
+ZZHPOXPpfNXZPPZ'Z
+ZZp
+ZPpH<sos>OVOXO'ZZZb'
+Nf
+HZP'pZZOVZPX
+'XZ<pad>HXpXPZ
+ZHVNZX'O
+ZfZZ''PpUZHZHXpOPZNOZ
+Z'XVXZUHXpXfZXAZPPZ'ZNpHXPNXZONUU
+f'ZNPXpXXZbXXXZE'XfUZXNpPUR<sos>bNXHE'ZXX'XXAZZXXPXXNRXXZZNXXPP
+
+样本 2:
+ROMEO:ZpX'PO<sos>HXp
+VHOZ'ZXpHX
+ZXX'ZPVOZZ<pad>ZXUXH
+'H<sos>H
+Z'ZpZXfO'PXp
+X
+ZUZXNHZVb''PPZpXZ
+
+'AZOOZOHHZZNUZX
+ZPZ'Z'ZXO
+p''HUZXXPUZHZZbZZ
+pZ'f<sos>NXXUpZ'ZZPXXRPEZbNXH'<sos>XXXXZO'Zp''UENZbXZPXXXZXXXHZENXXXAZ'NPNXNRXXX
+
+样本 3:
+ROMEO:HZ
+Z
+XpPV'OXpZZNZ
+ZZHZP
+<sos>O'ZfXZUpVXZXZZZ
+ZZZ<sos>OPZ'p
+'XHVpZNXAXHpZ
+ZXXPZ'fZXPpPXZZOPZZ
+Z'fX
+XU'<sos>
+VpZObZ
+HPZPXZ'UXZ'XfXp
+bOOZZ<pad>NHXZNP'Z<sos>NXXZZZOXEpZ''ZZZUpXNXXbXXZXPXXXNHp<sos>XRE'XbUAXXXZXNZPXXXXXXNXRX
+
+============================================================
+
+提示: 'What light through yonder window breaks?'
+----------------------------------------
+样本 1:
+What light through yonder window breaks?ZZOZ
+HXf'H'ZXVPNPZHO
+pZZZZZ'XUZZHZfZ
+OVPpZ<pad>ZXP'ZHXZHZ<sos>
+OfVZZp'''''PXZH<pad>ZNZZZOp
+Z
+
+样本 2:
+What light through yonder window breaks?'XZp
+ZPpZpfXZ<sos>HVZZOZXHZ
+P'ZX'H'VOpZHUpZZ
+PZZXNp''Z'HVZZOX<pad>
+OZZpHZZZPZZ
+'ZXPOHNUZ
+
+样本 3:
+What light through yonder window breaks?ZO'HpXX
+
+ZXZPX<sos>
+XXZ
+XHpXZ
+'p
+OVZP<sos>p
+AZOZNZ
+'ZHX
+Z
+'Zf
+XpXOVNppOPHpXZZ
+X'Z'fNA'ZH
+
+============================================================
+

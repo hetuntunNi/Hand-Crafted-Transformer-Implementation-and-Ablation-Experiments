@@ -1,0 +1,171 @@
+实验: pos_1_res_1 - 完整模型 (位置编码 + 残差连接)
+============================================================
+
+提示: 'First Citizen:'
+----------------------------------------
+样本 1:
+First Citizen:
+Rim'r blarmbromer
+RimbroVRRCETRIVRS mit'r blars
+Rim, ing'RrT'R But by brim bom's,
+RIV:
+But brim som, RIV:
+But brer'd Rimen,
+Is borr'd w
+
+样本 2:
+First Citizen:
+Rit brem's brand
+Rith'l Rimbroverby brm's bing
+RIV:
+BRTHENR brim's boViRer blar ing brm's th'l ming,
+SRICHENV:
+BRCET:
+Tre is tomblick'd
+
+样本 3:
+First Citizen:
+Rimbr
+Rt mard's Rim ber grong'r br
+BR' th's berm'd ing't Rermbl
+Re bis brom's Rat Rit's brom ber.
+
+============================================================
+
+提示: 'To be or not to be'
+----------------------------------------
+样本 1:
+To be or not to ber'mbr ber,
+RIR:
+Rimb' brerv' to brmb's ingR'VBR,
+Rbrom tism's bublor be st
+Rim, I'lt brom's bend Rich'd
+But.
+
+样本 2:
+To be or not to ber
+Rim's berblom ren brim's tr boR,
+BRIV:
+Rin bram' is RIV:
+BR' br
+Rim, broms bert' Rive
+Som br ald,
+BuR:
+VoR's ber, Rim's int bom
+Rer war's on th's
+TRIV:
+But ing'd.
+
+样本 3:
+To be or not to berm brit'R BoR Bus,
+YbR Crm'lR VRS I burm,
+Ritr's boV:
+BRTERRCERR Rimbrow blerem Rim
+BROMER:
+brond is mer,
+RIV:
+Ricar my to is in
+BRIV:
+YCROMER:
+This istarmer' book of Ring:
+Buth's br
+
+============================================================
+
+提示: 'KING:'
+----------------------------------------
+样本 1:
+KING:
+RIVRRCESHBR brominVRRCESRm' R's bermblord
+HiR,
+BR BR'trombrim bers I'R RIV:
+Thbom's,
+BRESVORr ber mart.
+
+样本 2:
+KING:
+Rim ber's,
+Bubring'R I'lrm tR Rer boobr
+bim's ber blorm'd,
+Rim ber' robs
+BRIV:
+But' mordbs ber,
+Rim's grob I noV:
+TRICHENVORY Rom's I ing,
+That Rick's bor,
+FRY:
+Thime bert.
+
+样本 3:
+KING:
+Rim's brombrting's,
+RIRCESHR'VRCER:
+BR I's brenVRCERrm'd Rimbr
+BR'VROMER:
+RIV:
+Rim ber's bet im RIV:
+S'R, brenst tom'd mar.
+
+============================================================
+
+提示: 'ROMEO:'
+----------------------------------------
+样本 1:
+ROMEO: bris
+Rem's arbe tor
+BR, brimbrink's Rermbrim
+Hour br th' Ram is brarm
+Rit on bere by brink's be tom,
+Rir is blis o't.
+
+样本 2:
+ROMEO:
+Rim brom'cerm'lds'tR bing,
+Rimbrer
+BRIV:
+RicR's brembringbtRim's tr Rom'd tars blin,
+BR'V:
+Harm th's tre tong blim
+Ris wark's buth'd in wart.
+
+样本 3:
+ROMEO:
+Rim's brom'VRRCER brin br brt's berm's
+BRito torbl
+RRIV:
+TRIOrm's borber,
+RRCERTIR:
+Sar bring, mor Rarm's bre bring's,
+Rim'd ber buthonk tim's arme bererd.
+
+============================================================
+
+提示: 'What light through yonder window breaks?'
+----------------------------------------
+样本 1:
+What light through yonder window breaks?
+
+Rim' bron
+Rim
+BRIV:
+Th' brom's,
+Rim Rat br th'd my bis to ing'd ber,
+BRIV:
+But
+
+样本 2:
+What light through yonder window breaks?
+BRIVR bring'Rrm
+BR'VRTHER:
+BR brant Rim, I'll bromer
+Rim tre rambrom's but
+Rice
+
+样本 3:
+What light through yonder window breaks?
+
+Rim brovert'R'V:
+BR blorm br tis.
+
+============================================================
+
