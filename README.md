@@ -1,4 +1,4 @@
-手工搭建了Transformer并在tiny_shakespeare数据集做消融实验，数据集链接：https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+手工搭建了Transformer并在tiny_shakespeare数据集做消融实验，数据集下载url：https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 
 编程语言：Python 3.9
 
