@@ -7,6 +7,7 @@ CUDA版本：11.8
 
 创建conda环境
 conda create -n Transformer python=3.9
+
 conda activate Transformer
 
 安装依赖
